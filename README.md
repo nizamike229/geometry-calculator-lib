@@ -4,7 +4,6 @@ A .NET 8 library for calculating areas of geometric shapes with extensible archi
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-blue)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Features
 
